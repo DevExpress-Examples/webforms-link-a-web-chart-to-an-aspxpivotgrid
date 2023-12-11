@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Webforms - How to Link a Web Chart to a Pivot Grid
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1242/)**
-<!-- run online end -->
 
 <p>This tutorial demonstrates how you can link <a href="http://documentation.devexpress.com/#XtraCharts/clsDevExpressXtraChartsWebWebChartControltopic"><u>WebChartControl</u></a> to <a href="http://documentation.devexpress.com/#AspNet/clsDevExpressWebASPxPivotGridASPxPivotGridtopic"><u>ASPxPivotGrid</u></a> at design time.</p>
 
