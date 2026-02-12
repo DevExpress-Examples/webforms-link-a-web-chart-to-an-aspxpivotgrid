@@ -25,7 +25,7 @@
 * [UpdatePanel Class](http://msdn.microsoft.com/en-us/library/system.web.ui.updatepanel.aspx)
 * [Pivot Charting on the Web (Integration with the ASPxPivotGrid)](http://documentation.devexpress.com/XtraCharts/CustomDocument8750.aspx)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=webforms-link-a-web-chart-to-an-aspxpivotgrid&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=webforms-link-a-web-chart-to-an-aspxpivotgrid&~~~was_helpful=no)
 
